@@ -5,7 +5,22 @@ Manage WordPress comments, menus, options, posts, sites, terms, and users.
 
 [![Testing](https://github.com/wp-cli/entity-command/actions/workflows/testing.yml/badge.svg)](https://github.com/wp-cli/entity-command/actions/workflows/testing.yml)
 
-Quick links: [Using](#using) | [Installing](#installing) | [Contributing](#contributing) | [Support](#support)
+## Contents
+
+- [Using](#using)
+  - [wp comment](#wp-comment)
+  - [wp menu](#wp-menu)
+  - [wp network meta](#wp-network-meta)
+  - [wp option](#wp-option)
+  - [wp post](#wp-post)
+  - [wp post-type](#wp-post-type)
+  - [wp site](#wp-site)
+  - [wp taxonomy](#wp-taxonomy)
+  - [wp term](#wp-term)
+  - [wp user](#wp-user)
+- [Installing](#installing)
+- [Contributing](#contributing)
+- [Support](#support)
 
 ## Using
 
